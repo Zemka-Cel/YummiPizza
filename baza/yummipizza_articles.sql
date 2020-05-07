@@ -1,0 +1,10 @@
+INSERT INTO yummipizza.articles (id, title, decription, created_at, updated_at, price) VALUES (1, 'Margherita', 'tomato sauce, cheese, origano', '2020-05-06 02:49:30', '2020-05-06 02:49:30', 10.00);
+INSERT INTO yummipizza.articles (id, title, decription, created_at, updated_at, price) VALUES (2, 'Napoli', 'tomato sauce, mushrooms, origano', '2020-05-06 02:49:30', '2020-05-06 02:49:30', 12.00);
+INSERT INTO yummipizza.articles (id, title, decription, created_at, updated_at, price) VALUES (3, 'Salame', 'tomato sauce, cheese, salami, mushrooms, origano', '2020-05-06 02:49:30', '2020-05-06 02:49:30', 10.00);
+INSERT INTO yummipizza.articles (id, title, decription, created_at, updated_at, price) VALUES (4, 'Tonno', 'tomato sauce, tuna, peppers, onion, origano', '2020-05-06 02:49:30', '2020-05-06 02:49:30', 15.00);
+INSERT INTO yummipizza.articles (id, title, decription, created_at, updated_at, price) VALUES (5, 'Vegeteriana', 'tomato sauce, cheese, vegetables, origano', '2020-05-06 02:49:30', '2020-05-06 02:49:30', 9.00);
+INSERT INTO yummipizza.articles (id, title, decription, created_at, updated_at, price) VALUES (6, 'Marinara', 'tomato sauce, hot sauce, olives, origano', '2020-05-06 02:49:30', '2020-05-06 02:49:30', 13.00);
+INSERT INTO yummipizza.articles (id, title, decription, created_at, updated_at, price) VALUES (7, 'Funghi', 'tomato sauce, mushrooms, origano', '2020-05-06 02:49:30', '2020-05-06 02:49:30', 8.50);
+INSERT INTO yummipizza.articles (id, title, decription, created_at, updated_at, price) VALUES (8, '4 cheese ', 'tomato sauce, 4 types of cheese, origano', '2020-05-06 02:49:30', '2020-05-06 02:49:30', 14.50);
+INSERT INTO yummipizza.articles (id, title, decription, created_at, updated_at, price) VALUES (9, 'Chicken', '22 crumbed chicken bites with crispy rasher bacon, creamy mozzarella & rich tomato sauce', '2020-05-06 02:49:30', '2020-05-06 02:49:30', 15.00);
+INSERT INTO yummipizza.articles (id, title, decription, created_at, updated_at, price) VALUES (10, 'Mexicana', 'tomato sauce, cheese, vegetables, black olives, hot sauce, sausage', '2020-05-06 02:49:30', '2020-05-06 02:49:30', 12.00);
